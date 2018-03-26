@@ -1,1 +1,8 @@
-This is Lana's custom theme.
+<?php
+  function myFirstFunction() {
+    echo "<p>Hello</p>";
+  }
+
+  myFirstFunction();
+
+?>
