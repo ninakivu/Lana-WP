@@ -10,5 +10,3 @@
 <body>
   <h1>Lana WP</h1>
   
-</body>
-</html>

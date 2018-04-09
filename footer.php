@@ -1,1 +1,4 @@
-<p>Greetings form Lana</p>
+<p>Greetings from Lana</p>
+<?php wp_footer(); ?>
+</body>
+</html>
